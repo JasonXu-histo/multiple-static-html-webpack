@@ -10,3 +10,5 @@ window.adaptive.init()
 window.toPage2 = function() {
   window.location.href = 'page2.html'
 }
+
+console.log($)
